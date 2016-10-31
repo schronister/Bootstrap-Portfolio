@@ -15,18 +15,67 @@
 }
 
 #aboutMe{
-	border:2px solid gray;
+	border:1px solid gray;
+	background:white;
 }
 
 #connect{
-	border:2px solid gray;
+	border:1px solid gray;
+	background:white;
 }
 
 .container{
-	padding-right:6%;
-	padding-left:6%;
+	padding-right:2%;
+	padding-left:2%;
+}
+
+#projects{
+	border:1px solid gray;
+	background:white;
 }
 
 #contact-form{
-	border:2px solid gray;
+	border:1px solid gray;
+	padding-bottom:20px;
+	background:white;
+}
+
+.portfolio-image{
+	width:100%;
+}
+
+.image-text{
+	position:absolute;
+	bottom:12%;
+	background: #4aaaa5;
+	color:white;
+	padding:15px 0px 15px 0px;
+	width:91%;
+	text-align:center;
+}
+
+h2{
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	color:#4aaaa5;
+}
+
+.navbar-default{
+	border-bottom: 1px solid gray;
+}
+
+.navbar-brand{
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	font-size:2.5em;
+	background:#4aaaa5;
+	color:white !important;
+}
+
+.navbar-brand:hover{
+	color:black !important;
+}
+
+body{
+	background: #8e9eab; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #4aaaa5 , #eefff3); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #4aaaa5 , #eefff3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
