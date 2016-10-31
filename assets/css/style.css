@@ -1,0 +1,28 @@
+.bio-img{
+	width:100%;
+}
+
+.social{
+	width:100%;
+}
+
+.social2{
+	width:100%;
+}
+.footer{
+	text-align: center;
+	background:#aaa;
+}
+
+#aboutMe{
+	border:2px solid gray;
+}
+
+#connect{
+	border:2px solid gray;
+}
+
+.container{
+	padding-right:6%;
+	padding-left:6%;
+}
